@@ -44,3 +44,12 @@ A web application built with Python and Flask to streamline core operations for 
 	VALUES ('doctor', 'doctor123', 'doctor');
 
     ```
+   ## Project Preview
+
+### Login Page
+
+![Login Page](./assets/login_page.png)
+
+### Doctor Dashboard
+
+![Doctor Dashboard](./assets/doctor_Dashboard.png)
