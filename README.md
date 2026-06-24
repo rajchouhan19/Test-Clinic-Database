@@ -52,4 +52,4 @@ A web application built with Python and Flask to streamline core operations for 
 
 ### Doctor Dashboard
 
-![Doctor Dashboard](./assets/doctor_Dashboard.png)
+![Doctor Dashboard](./assets/doctor_dashboard.png)
